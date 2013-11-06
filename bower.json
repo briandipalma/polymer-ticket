@@ -1,0 +1,27 @@
+{
+  "name": "polymer-ticket",
+  "version": "0.0.0",
+  "description": "Test of Polymer library.",
+  "main": "PolymerTicket.js",
+  "keywords": [
+    "Polymer",
+    "Ticket"
+  ],
+  "authors": [
+    "Brian Di Palma"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/briandipalma/polymer-ticket",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.0.20131025",
+    "js-loaders": "git://github.com/jorendorff/js-loaders.git"
+  }
+}
