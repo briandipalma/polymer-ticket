@@ -2,7 +2,7 @@
   "name": "polymer-ticket",
   "version": "0.0.0",
   "description": "Test of Polymer library.",
-  "main": "PolymerTicket.js",
+  "main": "src/PolymerTicket.js",
   "keywords": [
     "Polymer",
     "Ticket"
